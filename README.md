@@ -15,6 +15,7 @@ A atividade tem como objetivo a prática de uso do Git e GitHub para trabalho co
 Os seguintes membros estão participando da atividade colaborativa:
 
 - Adriano de Paula
+- Edvaldo Domingos da Silva
 - (Aqui os demais membros devem inserir seus nomes conforme forem adicionando no arquivo `grupo.txt`)
 
 ## Instruções para o grupo
@@ -23,3 +24,4 @@ Os seguintes membros estão participando da atividade colaborativa:
 
 ```bash
 git clone git@github.com:adriano-de-paula/Atividade-colaborativa.git
+git clone git@github.com:EdvaldoDomingos/Atividade-colaborativa.git
